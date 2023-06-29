@@ -12,9 +12,9 @@ int q1(string s){
         for(int j   = i; j  <  i+14;j++){
             // 1<<(s[i]%32);
             if(arr[((int)s[j]%32)]){
-                i = j+1;
+                qi = j+1;
                 break;
-                
+
             }
             else{
                 arr[((int)s[j]%32)] =1;
