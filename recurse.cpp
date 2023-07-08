@@ -42,8 +42,9 @@ int main(){
     // cout<<b;
     // f(b);
     // cout<<b;
-    char o[] = {'c','a','k','e'};
-    f(o);
-
+    // char o[] = {'c','a','k','e'};
+    // f(o);
+    
+    cout<<"hello";
 
 }
